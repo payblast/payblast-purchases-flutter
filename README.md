@@ -1,4 +1,4 @@
-# purchases-flutter
+# payblast-purchases-flutter
 
 Payblast Flutter purchases SDK
 
